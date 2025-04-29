@@ -1,6 +1,4 @@
 ## Hi there community 👋
-
-<!--
 Here are some of the languages ​​I develop:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
