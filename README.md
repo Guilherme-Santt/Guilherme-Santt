@@ -9,6 +9,8 @@ Here are some of the languages ​​I develop: <br>
           <img style="width: 50px; heigth: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" />
           <img style="width: 50px; heigth: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />  
           <img style="width: 50px; heigth: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+          <img style="width: 50px; heigth: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 </div>
           
 - 📫 How to reach me: guisant@icloud.com
